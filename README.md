@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OnyRazafy
 - 👀 I’m interested in antenna
+- 👀 I’m interested in mobile generation
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me
